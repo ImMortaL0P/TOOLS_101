@@ -34,6 +34,18 @@ A simple Node.js-based automation tool that reads phone numbers from a CSV file 
 *
 * **Location:** `/Whatsapp Group Mass Addition`
 
+### 3. Floating Tab App Launcher
+
+*A lightweight, draggable, and always-on-top desktop widget built with Python and Tkinter. This floating tab acts as a quick-access shortcut, allowing you to launch a specific application from anywhere on your screen without navigating through menus.
+
+✨ Features
+Always on Top: The widget stays above all other open windows (-topmost) so it is always accessible.
+Custom Drag Bar: Features a borderless UI with a custom gray title bar that you can click and drag to reposition the widget.
+Semi-Transparent: Runs at 85% opacity (-alpha, 0.85) so it doesn't entirely block the content behind it.
+One-Click App Launch: Quickly fires up your target application using the subprocess module.
+Custom Icon Support: Uses the Pillow library to load and display a custom icon in the drag bar.
+*
+* **Location:** `/Floating Tab GUI Less Script Executor`
 ---
 
 ## 🚀 General Setup & Usage
