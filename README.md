@@ -20,9 +20,19 @@ A lightweight, asynchronous Python automation tool that bridges Telegram channel
   * Auto-deletes the local file immediately after a successful upload to conserve disk space.
 * **Core Libraries:** `Telethon`, `asyncio`, `google-api-python-client`.
 
-### 2. Data & Automation Utilities 📊
-*(Placeholder: Add descriptions for your other scripts here! For example: Scripts used for computing statistical metrics, generating SQL tables, or scraping web assets.)*
-* **Location:** `/data-utils`
+### 2. Whatsapp Group Addition Tool 📊
+*📲 Automated WhatsApp Group Member Adder (CSV-Based)
+A simple Node.js-based automation tool that reads phone numbers from a CSV file and directly adds them to a specified WhatsApp group using whatsapp-web.js. This solution is ideal for organizations, communities, or admins who need to manage WhatsApp group memberships efficiently without sending manual invites.
+
+🚀 Features
+✅ Reads phone numbers from a CSV file (contacts.csv)
+✅ Adds participants directly to an existing WhatsApp group
+✅ QR-based login (only once per machine)
+✅ No Selenium or ChromeDriver required
+✅ Lightweight dependencies and fast execution
+✅ Easy to use via .bat scripts on Windows
+*
+* **Location:** `/Whatsapp Group Mass Addition`
 
 ---
 
