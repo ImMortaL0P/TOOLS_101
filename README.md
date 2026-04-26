@@ -13,7 +13,7 @@ This repository serves as an active toolkit containing scripts written in Python
 
 ### 1. Telegram to Google Drive PDF Sync 📂 🚀
 A lightweight, asynchronous Python automation tool that bridges Telegram channels with Google Drive storage. 
-* **Location:** `/telegram-drive-sync` *(Update this path to match your folder structure)*
+* **Location:** `/Telegram PDF to Drive Bot`
 * **Overview:** * Monitors target Telegram channels strictly for `.pdf` files.
   * Downloads files locally with visual CLI progress bars.
   * Streams chunked uploads to a designated Google Drive folder.
